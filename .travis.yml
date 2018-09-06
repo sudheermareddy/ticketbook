@@ -1,5 +1,0 @@
-deploy:
-  provider: azure_web_apps
-  username: "sudheermareddy"
-  password: "raghavaMM@@420"
-  site: "sm-testwebapp"
